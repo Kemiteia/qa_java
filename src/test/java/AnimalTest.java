@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 public class AnimalTest {
 
     @Test
-    public void TestAnimalGetFamily() {
+    public void testAnimalGetFamily() {
 
         Animal animal = new Animal();
 
